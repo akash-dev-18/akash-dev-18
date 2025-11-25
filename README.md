@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=150&section=header&text=AND THE ERA BEGINS ...&fontSize=40&fontAlign=50&fontAlignY=40&desc=Backend%20Developer%20,%20Red%20Teamer%20&%20Backend%20Dev&descAlign=50&descAlignY=65&descSize=20&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=150&section=header&text=AND_THE_ERA_BEGINS_...&fontSize=40&fontAlign=50&fontAlignY=40&desc=Backend%20Developer,%20Red%20Teamer%20&%20Backend%20Dev&descAlign=50&descAlignY=65&descSize=20&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </div>
-
 <br/>
 
 <div align="center">
