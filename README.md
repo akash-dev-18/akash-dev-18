@@ -18,12 +18,10 @@
 
 <div align="center">
   <p>
-    I am a versatile developer and security researcher. I build secure backends using <b>FastAPI & Spring Boot</b>, and I break them using <b>Kali Linux</b>.
-  </p>
-  
-  <p>
-    🔭 I’m currently specializing in <b>Red Teaming Operations</b>.<br>
-    ⚡ <b>Fun fact:</b> I use pure Terminal, no Desktop Environment needed.
+    ⚡ I am a versatile developer and security researcher. I build secure backends using <b>FastAPI & Spring Boot</b>, and I break them using <b>Kali Linux</b>.
+    ⚡ Merging the art of <b>Backend Development</b> with <b>Offensive Security</b>.
+    ⚡ I’m currently specializing in <b>Red Teaming Operations</b>.<br>
+    ⚡ Using <b>Linux</b> & <b>Terminal</b> in the world of GUI and WINDOWS.
   </p>
 </div>
 
@@ -44,7 +42,6 @@
 <h3 style="color: #00FFFF;">Backend & Frameworks</h3>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
 <h3 style="color: #ff0080;">🛡️ Identity & Access Management</h3>
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
@@ -58,7 +55,7 @@
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
 
-<h3 style="color: #ff0080;">DevOps & Environment</h3>
+<h3 style="color: #ff0080;">Tools</h3>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
