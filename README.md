@@ -46,14 +46,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-dev-18&show_icons=true&theme=dracula&rank_icon=github&border_radius=5" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-dev-18&layout=compact&theme=dracula&border_radius=5" height="150" alt="languages graph" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=akash-dev-18&locale=en&mode=daily&theme=dracula&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akash-dev-18&show_icons=true&theme=dracula&rank_icon=github" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=akash-dev-18&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
 
 ###
@@ -64,8 +58,10 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akash-dev-18/akash-dev-18/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akash-dev-18/akash-dev-18/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akash-dev-18/akash-dev-18/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akash-dev-18/akash-dev-18/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akash-dev-18/akash-dev-18/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akash-dev-18/akash-dev-18/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
