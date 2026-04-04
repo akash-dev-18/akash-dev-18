@@ -1,21 +1,36 @@
 name: Generate Pac-Man
+
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # 1. Added explicit permissions to allow the bot to push to your branches
+    permissions:
+      contents: write
+      
     steps:
-      - uses: Platane/snk/svg-only@v3
+      # 2. Added the checkout step so Git knows the context of your repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Pac-Man SVGs
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: akash-dev-18
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
+            
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
