@@ -1,13 +1,13 @@
 <h1 align="center">Hey 👋 I'm Akash</h1>
 
 <p align="center">
-  Backend Engineer · Security Researcher · Red Teamer
+  Backend Engineer · Cybersecurity Enthuasiast 
 </p>
 
 <p align="center">
   Building secure backends with <b>Spring Boot</b> & <b>FastAPI</b> — and breaking them with <b>Kali Linux</b>.
   <br/>
-  Currently specializing in Red Team Operations · Works primarily on Linux.
+  Currently specializing in Backend Development · Works primarily on Linux.
 </p>
 
 ###
@@ -54,7 +54,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=akash-dev-18&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=akash-dev-18&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akash-dev-18&theme=dracula&margin-w=15&margin-h=15" height="150" alt="trophy graph" />
 </div>
 
 ###
