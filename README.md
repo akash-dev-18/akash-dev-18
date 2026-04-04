@@ -1,101 +1,67 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=150&section=header&text=AND_THE_ERA_BEGINS_...&fontSize=40&fontAlign=50&fontAlignY=40&desc=Backend%20Developer,%20Red%20Teamer%20&%20Backend%20Dev&descAlign=50&descAlignY=65&descSize=20&animation=fadeIn&fontColor=ffffff" width="100%"/>
-</div>
-<br/>
+# Akash Kumar
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=800&lines=Initializing+Neural+Link...;Loading+Arsenal:+Python,+FastAPI,+Red+Teaming...;Target:+Secure+Backend+%26+Offensive+Security;Status:+CONNECTED." alt="Typing SVG" />
-  </a>
-</div>
+**Backend Engineer & Security Researcher** · B.Tech CSE, NIST University · Kolkata, IN
+
+[![Portfolio](https://img.shields.io/badge/portfolio-visit-555?style=flat-square)](https://arch-portfolio-delta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kumar-17576132b/)
+[![Email](https://img.shields.io/badge/email-send-555?style=flat-square)](mailto:akash1.dev2.ak@gmail.com)
 
 ---
 
-<div align="center">
-  <h2 style="color: #00FFFF;">👾 ABOUT ME 👾</h2>
-</div>
+### About
 
-<div align="center">
-  <p>
-    ⚡ I am a versatile developer and security researcher. I build secure backends using <b>FastAPI & Spring Boot</b>, and I break them using <b>Kali Linux</b>.<br>
-    ⚡ Merging the art of <b>Backend Development</b> with <b>Offensive Security</b>.<br>
-    ⚡ I’m currently specializing in <b>Red Teaming Operations</b>.<br>
-    ⚡ Using <b>Linux</b> & <b>Terminal</b> in the world of GUI and WINDOWS.
-  </p>
-</div>
+Backend engineer with hands-on experience building production-grade microservices in `Spring Boot` and `FastAPI`. Designed and shipped a multi-tenant SaaS platform with JWT/RBAC security, RAG pipelines, and real-time streaming — independently, from scratch. Also into offensive security: red teaming, pentesting, and low-level systems.
 
 ---
 
-<div align="center">
-  <h2 align="center">⚡ <span style="color: #00FFFF">ARSENAL</span> <span style="color: #ff0080">(TECH STACK)</span> ⚡</h2>
-</div>
+### Stack
 
-<div align="center">
-
-<h3 style="color: #ff0080;">Programming Languages</h3>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-
-<h3 style="color: #00FFFF;">Backend & Frameworks</h3>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-
-<h3 style="color: #ff0080;">🛡️ Identity & Access Management</h3>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-<img src="https://img.shields.io/badge/OAuth2.0-EB5424?style=for-the-badge&logo=oauth&logoColor=white" />
-<img src="https://img.shields.io/badge/Auth-RBAC-red?style=for-the-badge&logo=authentik&logoColor=white" />
-
-<h3 style="color: #00FFFF;">⚔️ Security & Red Teaming ⚔️</h3>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
-
-<h3 style="color: #ff0080;">Tools</h3>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-</div>
+| Area | Technologies |
+|---|---|
+| **Languages** | Python, Java, C, SQL, Bash |
+| **Backend** | Spring Boot 3, FastAPI, Hibernate, Spring Security, WebSockets, Celery, SQLAlchemy |
+| **Databases** | PostgreSQL, MongoDB, Redis |
+| **DevOps** | Docker, Kubernetes, AWS, GitHub Actions (CI/CD) |
+| **Security & IAM** | JWT, OAuth 2.0, RBAC, Rate Limiting, Kali Linux, Burp Suite, Metasploit, Nmap, Wireshark |
+| **AI** | LangChain, RAG Pipelines, LangGraph |
+| **Concepts** | Microservices, Multi-tenancy, System Design, Load Balancing, API Gateway |
 
 ---
 
-<h2 align="center">📊 NETWORK TRAFFIC</h2>
+### Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-dev-18&show_icons=true&bg_color=0d1117&title_color=ff0080&text_color=ffffff&icon_color=00ffff&border_color=00ffff&hide_border=false" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-dev-18&layout=compact&bg_color=0d1117&title_color=ff0080&text_color=ffffff&icon_color=00ffff&border_color=00ffff&hide_border=false" height="180" alt="languages graph" />
-</div>
+**[KnowledgeBase AI](https://github.com/akash-dev-18)**
+`Java` `Spring Boot` `FastAPI` `LangChain` `Qdrant` `Redis` `PostgreSQL`
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-dev-18&theme=tokyonight&background=0d1117&ring=ff0080&fire=00ffff&currStreakLabel=00ffff" alt="streak stats"/>
-</div>
+Multi-tenant SaaS platform — Spring Boot core API + FastAPI AI service. 4-tier RBAC (Owner/Admin/Member/Viewer) via Spring Security and a custom JwtFilter, securing 14+ REST endpoints with strict company-scoped data isolation across 7 JPA entities. RAG pipeline with Qdrant + 768-dim Gemini embeddings, real-time SSE streaming, Redis session history, and auto-generated summaries. Cut manual document review time by 50%.
 
 ---
 
-<h2 align="center" style="color: #ff0080;">📡 ESTABLISH UPLINK (CONTACT)</h2>
-<div align="center">
+**[DocuChat REST API](https://github.com/akash-dev-18)** · [live](https://arch-portfolio-delta.vercel.app/)
+`Python` `FastAPI` `LangChain` `Qdrant` `Docker`
 
-  <a href="https://arch-portfolio-delta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20HQ-00FFFF?style=for-the-badge&logo=firefox&logoColor=black" alt="Portfolio" />
-  </a>
+Production REST API — upload PDFs, query in natural language. Qdrant vector embeddings for semantic retrieval. Both synchronous and SSE streaming endpoints with persistent session-based chat history. Key-based auth + rate limiting. Containerized with Docker.
 
-  <a href="https://www.linkedin.com/in/akash-kumar-17576132b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+---
 
-  <a href="mailto:akash1.dev2.ak@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send%20Msg-ff0080?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+**[Distributed C2 Framework](https://github.com/akash-dev-18)**
+`C` `Python` `FastAPI` `Redis` `WinAPI`
 
-</div>
-<br/>
+High-concurrency async FastAPI backend with Redis-backed persistent task queue for reliable command dispatch to multiple agents. Lightweight C agent using WinAPI/Syscalls for low-level OS access. JWT + RBAC security model applied across the architecture.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LHTJgqS58pGg9F8H5T/giphy.gif" width="100%" style="border-radius: 10px;">
-</div>
+---
+
+### Certifications
+
+- **Neo4j Certified Professional** — Neo4j
+- **Junior Pentester** — Practical Penetration Testing & Privilege Escalation · TryHackMe
+- **Cybersecurity 101** — Cyber Defence & Security Principles · TryHackMe
+- **Networking Basics** — OSI Model, IP Addressing & Subnetting · Cisco
+
+---
+
+### Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash-dev-18&show_icons=true&theme=default&hide_title=true&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-dev-18&layout=compact&theme=default&hide_border=false)
