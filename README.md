@@ -24,19 +24,19 @@
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-dev-18&show_icons=true&theme=dracula&rank_icon=github&v=1" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=akash-dev-18&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akash-dev-18&show_icons=true&theme=dracula&rank_icon=github&cache_seconds=86400" height="165" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=akash-dev-18&theme=dracula&hide_border=false" height="165" alt="streak graph" />
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-dev-18&theme=dracula&area=true&hide_border=true" width="100%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-dev-18&theme=dracula&area=true&hide_border=true" width="95%" alt="activity graph" />
 
   <br/><br/>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akash-dev-18/akash-dev-18/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akash-dev-18/akash-dev-18/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akash-dev-18/akash-dev-18/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akash-dev-18/akash-dev-18/output/pacman-contribution-graph.svg" height="165">
   </picture>
 
 </div>
