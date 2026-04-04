@@ -46,15 +46,20 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-dev-18&show_icons=true&theme=dracula&hide_border=false&border_radius=5" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-dev-18&layout=compact&theme=dracula&hide_border=false&border_radius=5" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akash-dev-18&show_icons=true&theme=dracula&rank_icon=github&border_radius=5" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-dev-18&layout=compact&theme=dracula&border_radius=5" height="150" alt="languages graph" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=akash-dev-18&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=akash-dev-18&theme=dracula&margin-w=15&margin-h=15" height="150" alt="trophy graph" />
+  <img src="https://streak-stats.demolab.com?user=akash-dev-18&locale=en&mode=daily&theme=dracula&border_radius=5" height="150" alt="streak graph" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-dev-18&theme=dracula&area=true&hide_border=true" width="100%" alt="activity graph" />
 </div>
 
 ###
